@@ -1,2 +1,2 @@
 # laravel-portfolio-blog
- Laravel portfolio and blog website.
+ This is a simple blog portfolio platform using laravel 6
