@@ -1,6 +1,6 @@
 # laravel-portfolio-blog
  This is a simple blog portfolio platform using laravel 6
-#Projects İnstallation
+# Projects İnstallation
 
 	* composer install
 	* php artisan key:generate
